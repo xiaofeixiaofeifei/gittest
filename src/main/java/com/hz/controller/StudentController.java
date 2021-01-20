@@ -5,6 +5,7 @@ public class StudentController {
 		System.out.println("nihao");
 		System.out.println("gittest");
 		System.out.println("gittest2");
+		System.out.println("gamegittest");
 		
 	}
 }
